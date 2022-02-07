@@ -3,3 +3,5 @@ node_modules
 dist
 dist-ssr
 *.local
+src/Utils/SmoothApe.json
+vite.config.js
